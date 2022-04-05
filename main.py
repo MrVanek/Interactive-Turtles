@@ -30,4 +30,3 @@ window.mainloop()
 
 #TODO:  Check the classes and complete TODOs
 #push to github repo.
-#link repo to assignment
